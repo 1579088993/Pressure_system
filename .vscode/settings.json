@@ -1,0 +1,7 @@
+{
+    "cortex-debug.registerUseNaturalFormat": false,
+    "files.associations": {
+        "stm32f10x_conf.h": "c"
+    },
+    "cortex-debug.variableUseNaturalFormat": false
+}

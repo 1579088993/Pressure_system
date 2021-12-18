@@ -1,0 +1,826 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a(_arm_mulsf3.o)
+                              output/./src/pressure.o (__aeabi_fmul)
+d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+                              output/./src/usart.o (__aeabi_fsub)
+d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a(_arm_muldivsf3.o)
+                              output/./src/pressure.o (__aeabi_fdiv)
+d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+                              output/./src/usart.o (__aeabi_f2uiz)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 output/./src/main.o
+ .data          0x00000000        0x0 output/./src/main.o
+ .bss           0x00000000        0x0 output/./src/main.o
+ .bss.PSB       0x00000000        0x2 output/./src/main.o
+ .text          0x00000000        0x0 output/./cmsis/core_cm3.o
+ .data          0x00000000        0x0 output/./cmsis/core_cm3.o
+ .bss           0x00000000        0x0 output/./cmsis/core_cm3.o
+ .text.__get_PSP
+                0x00000000        0xe output/./cmsis/core_cm3.o
+ .text.__set_PSP
+                0x00000000        0xa output/./cmsis/core_cm3.o
+ .text.__get_MSP
+                0x00000000        0xe output/./cmsis/core_cm3.o
+ .text.__set_MSP
+                0x00000000        0xa output/./cmsis/core_cm3.o
+ .text.__get_BASEPRI
+                0x00000000       0x14 output/./cmsis/core_cm3.o
+ .text.__set_BASEPRI
+                0x00000000       0x10 output/./cmsis/core_cm3.o
+ .text.__get_PRIMASK
+                0x00000000       0x14 output/./cmsis/core_cm3.o
+ .text.__set_PRIMASK
+                0x00000000       0x10 output/./cmsis/core_cm3.o
+ .text.__get_FAULTMASK
+                0x00000000       0x14 output/./cmsis/core_cm3.o
+ .text.__set_FAULTMASK
+                0x00000000       0x10 output/./cmsis/core_cm3.o
+ .text.__get_CONTROL
+                0x00000000       0x14 output/./cmsis/core_cm3.o
+ .text.__set_CONTROL
+                0x00000000       0x10 output/./cmsis/core_cm3.o
+ .text.__REV    0x00000000       0x16 output/./cmsis/core_cm3.o
+ .text.__REV16  0x00000000       0x1c output/./cmsis/core_cm3.o
+ .text.__REVSH  0x00000000       0x1c output/./cmsis/core_cm3.o
+ .text.__RBIT   0x00000000       0x18 output/./cmsis/core_cm3.o
+ .text.__LDREXB
+                0x00000000       0x1e output/./cmsis/core_cm3.o
+ .text.__LDREXH
+                0x00000000       0x1e output/./cmsis/core_cm3.o
+ .text.__LDREXW
+                0x00000000       0x18 output/./cmsis/core_cm3.o
+ .text.__STREXB
+                0x00000000       0x22 output/./cmsis/core_cm3.o
+ .text.__STREXH
+                0x00000000       0x22 output/./cmsis/core_cm3.o
+ .text.__STREXW
+                0x00000000       0x1c output/./cmsis/core_cm3.o
+ .debug_info    0x00000000      0x56e output/./cmsis/core_cm3.o
+ .debug_abbrev  0x00000000       0xba output/./cmsis/core_cm3.o
+ .debug_aranges
+                0x00000000       0xc8 output/./cmsis/core_cm3.o
+ .debug_ranges  0x00000000       0xb8 output/./cmsis/core_cm3.o
+ .debug_line    0x00000000      0x34c output/./cmsis/core_cm3.o
+ .debug_str     0x00000000      0x308 output/./cmsis/core_cm3.o
+ .comment       0x00000000       0x4a output/./cmsis/core_cm3.o
+ .debug_frame   0x00000000      0x200 output/./cmsis/core_cm3.o
+ .ARM.attributes
+                0x00000000       0x2d output/./cmsis/core_cm3.o
+ .text          0x00000000        0x0 output/./src/sys.o
+ .data          0x00000000        0x0 output/./src/sys.o
+ .bss           0x00000000        0x0 output/./src/sys.o
+ .text.Ex_NVIC_Config
+                0x00000000       0xf8 output/./src/sys.o
+ .text.WFI_SET  0x00000000        0x6 output/./src/sys.o
+ .text.INTX_DISABLE
+                0x00000000        0x6 output/./src/sys.o
+ .text.INTX_ENABLE
+                0x00000000        0x6 output/./src/sys.o
+ .text.MSR_MSP  0x00000000       0x10 output/./src/sys.o
+ .text.Sys_Standby
+                0x00000000       0x54 output/./src/sys.o
+ .text.Sys_Soft_Reset
+                0x00000000       0x14 output/./src/sys.o
+ .text.JTAG_Set
+                0x00000000       0x48 output/./src/sys.o
+ .text          0x00000000        0x0 output/./src/delay.o
+ .data          0x00000000        0x0 output/./src/delay.o
+ .bss           0x00000000        0x0 output/./src/delay.o
+ .text          0x00000000        0x0 output/./src/IIC.o
+ .data          0x00000000        0x0 output/./src/IIC.o
+ .bss           0x00000000        0x0 output/./src/IIC.o
+ .text.Iic_Init
+                0x00000000       0x60 output/./src/IIC.o
+ .text.Iic_Start
+                0x00000000       0x34 output/./src/IIC.o
+ .text.Iic_Stop
+                0x00000000       0x40 output/./src/IIC.o
+ .text.Iic_Wait_Ack
+                0x00000000       0x64 output/./src/IIC.o
+ .text.Iic_Ack  0x00000000       0x34 output/./src/IIC.o
+ .text.Iic_Nack
+                0x00000000       0x34 output/./src/IIC.o
+ .text.Iic_Send_Byte
+                0x00000000       0x78 output/./src/IIC.o
+ .text.Iic_Read_Byte
+                0x00000000       0x8c output/./src/IIC.o
+ .debug_info    0x00000000      0x2d5 output/./src/IIC.o
+ .debug_abbrev  0x00000000      0x130 output/./src/IIC.o
+ .debug_aranges
+                0x00000000       0x58 output/./src/IIC.o
+ .debug_ranges  0x00000000       0x48 output/./src/IIC.o
+ .debug_line    0x00000000      0x2ee output/./src/IIC.o
+ .debug_str     0x00000000      0x264 output/./src/IIC.o
+ .comment       0x00000000       0x4a output/./src/IIC.o
+ .debug_frame   0x00000000       0xd4 output/./src/IIC.o
+ .ARM.attributes
+                0x00000000       0x2d output/./src/IIC.o
+ .text          0x00000000        0x0 output/./src/pressure.o
+ .data          0x00000000        0x0 output/./src/pressure.o
+ .bss           0x00000000        0x0 output/./src/pressure.o
+ .text.Pre_Init
+                0x00000000        0xa output/./src/pressure.o
+ .text.Pre_Check
+                0x00000000       0x48 output/./src/pressure.o
+ .text.Pre_Write
+                0x00000000       0x32 output/./src/pressure.o
+ .text.Pre_Read
+                0x00000000       0x64 output/./src/pressure.o
+ .text.Pre_Cal  0x00000000       0x4c output/./src/pressure.o
+ .debug_info    0x00000000      0x15f output/./src/pressure.o
+ .debug_abbrev  0x00000000       0xd2 output/./src/pressure.o
+ .debug_aranges
+                0x00000000       0x40 output/./src/pressure.o
+ .debug_ranges  0x00000000       0x30 output/./src/pressure.o
+ .debug_line    0x00000000      0x209 output/./src/pressure.o
+ .debug_str     0x00000000      0x1e1 output/./src/pressure.o
+ .comment       0x00000000       0x4a output/./src/pressure.o
+ .debug_frame   0x00000000       0x94 output/./src/pressure.o
+ .ARM.attributes
+                0x00000000       0x2d output/./src/pressure.o
+ .text          0x00000000        0x0 output/./src/spi.o
+ .data          0x00000000        0x0 output/./src/spi.o
+ .bss           0x00000000        0x0 output/./src/spi.o
+ .text.SPI1_Init
+                0x00000000       0xe8 output/./src/spi.o
+ .text.SPI1_SetSpeed
+                0x00000000       0x54 output/./src/spi.o
+ .text.SPI1_ReadWriteByte
+                0x00000000       0x88 output/./src/spi.o
+ .text          0x00000000        0x0 output/./src/2401.o
+ .data          0x00000000        0x0 output/./src/2401.o
+ .bss           0x00000000        0x0 output/./src/2401.o
+ .rodata.TX_ADDRESS
+                0x00000000        0x5 output/./src/2401.o
+ .rodata.RX_ADDRESS
+                0x00000000        0x5 output/./src/2401.o
+ .text.NRF24L01_Write_Reg
+                0x00000000       0x48 output/./src/2401.o
+ .text.NRF24L01_Read_Reg
+                0x00000000       0x3c output/./src/2401.o
+ .text.NRF24L01_TxPacket
+                0x00000000       0x80 output/./src/2401.o
+ .text.NRF24L01_RxPacket
+                0x00000000       0x50 output/./src/2401.o
+ .text.NRF24L01_RX_Mode
+                0x00000000       0x54 output/./src/2401.o
+ .text.NRF24L01_TX_Mode
+                0x00000000       0x64 output/./src/2401.o
+ .text          0x00000000        0x0 output/./src/usart.o
+ .data          0x00000000        0x0 output/./src/usart.o
+ .bss           0x00000000        0x0 output/./src/usart.o
+ .text.UART_Send
+                0x00000000       0x2c output/./src/usart.o
+ .text          0x00000000        0x0 output/./src/ad1255.o
+ .data          0x00000000        0x0 output/./src/ad1255.o
+ .bss           0x00000000        0x0 output/./src/ad1255.o
+ .text.Ad1255_Init
+                0x00000000       0xa8 output/./src/ad1255.o
+ .text.ADS1255_Write_reg
+                0x00000000       0x3a output/./src/ad1255.o
+ .text.ADS1255_read_reg
+                0x00000000       0x38 output/./src/ad1255.o
+ .text.ADS1255_read_date
+                0x00000000       0x68 output/./src/ad1255.o
+ .text.ADS1255_WAKEUP
+                0x00000000       0x1c output/./src/ad1255.o
+ .text.ADS1255_SELFCAL
+                0x00000000       0x1c output/./src/ad1255.o
+ .text.ADS1255_SYNC
+                0x00000000       0x1c output/./src/ad1255.o
+ .text.ADS1255_RESET
+                0x00000000       0x1c output/./src/ad1255.o
+ .text.ADS1255_reg_Init
+                0x00000000       0x84 output/./src/ad1255.o
+ .debug_info    0x00000000      0x445 output/./src/ad1255.o
+ .debug_abbrev  0x00000000      0x116 output/./src/ad1255.o
+ .debug_aranges
+                0x00000000       0x60 output/./src/ad1255.o
+ .debug_ranges  0x00000000       0x50 output/./src/ad1255.o
+ .debug_line    0x00000000      0x2b7 output/./src/ad1255.o
+ .debug_str     0x00000000      0x361 output/./src/ad1255.o
+ .comment       0x00000000       0x4a output/./src/ad1255.o
+ .debug_frame   0x00000000       0xf4 output/./src/ad1255.o
+ .ARM.attributes
+                0x00000000       0x2d output/./src/ad1255.o
+ .text          0x00000000        0x0 output/./src/blueteeth.o
+ .data          0x00000000        0x0 output/./src/blueteeth.o
+ .bss           0x00000000        0x0 output/./src/blueteeth.o
+ .debug_info    0x00000000       0x72 output/./src/blueteeth.o
+ .debug_abbrev  0x00000000       0x26 output/./src/blueteeth.o
+ .debug_aranges
+                0x00000000       0x18 output/./src/blueteeth.o
+ .debug_line    0x00000000       0x1d output/./src/blueteeth.o
+ .debug_str     0x00000000      0x188 output/./src/blueteeth.o
+ .comment       0x00000000       0x4a output/./src/blueteeth.o
+ .ARM.attributes
+                0x00000000       0x2d output/./src/blueteeth.o
+ .text          0x00000000        0x0 output/./src/lig.o
+ .data          0x00000000        0x0 output/./src/lig.o
+ .bss           0x00000000        0x0 output/./src/lig.o
+ .bss.lig_data  0x00000000        0x8 output/./src/lig.o
+ .bss.lig_ch1_data
+                0x00000000        0x2 output/./src/lig.o
+ .bss.lig_ch0_data
+                0x00000000        0x2 output/./src/lig.o
+ .text.Lig_Read
+                0x00000000      0x184 output/./src/lig.o
+ .text          0x00000000        0x0 output/./src/Tem.o
+ .data          0x00000000        0x0 output/./src/Tem.o
+ .bss           0x00000000        0x0 output/./src/Tem.o
+ .bss.tem_data  0x00000000        0x4 output/./src/Tem.o
+ .bss.hum_data  0x00000000        0x4 output/./src/Tem.o
+ .bss.Tem_Data  0x00000000        0x2 output/./src/Tem.o
+ .bss.Hum_Data  0x00000000        0x2 output/./src/Tem.o
+ .text.Tem_Read
+                0x00000000       0xcc output/./src/Tem.o
+ .text.Data_Cal
+                0x00000000       0x78 output/./src/Tem.o
+ .text.Tem_Iic_Ack
+                0x00000000       0x34 output/./src/Tem.o
+ .text.Tem_Iic_Nack
+                0x00000000       0x34 output/./src/Tem.o
+ .text.Tem_Iic_Read_Byte
+                0x00000000       0x8c output/./src/Tem.o
+ .text          0x00000000        0x0 output/./src/voltage.o
+ .data          0x00000000        0x0 output/./src/voltage.o
+ .bss           0x00000000        0x0 output/./src/voltage.o
+ .text.Vol_Check
+                0x00000000       0x34 output/./src/voltage.o
+ .text.Vol_Init
+                0x00000000      0x154 output/./src/voltage.o
+ .text.Get_Adc  0x00000000       0x4c output/./src/voltage.o
+ .text.Get_Adc_Average
+                0x00000000       0x62 output/./src/voltage.o
+ .debug_info    0x00000000      0x3e9 output/./src/voltage.o
+ .debug_abbrev  0x00000000      0x143 output/./src/voltage.o
+ .debug_aranges
+                0x00000000       0x38 output/./src/voltage.o
+ .debug_ranges  0x00000000       0x28 output/./src/voltage.o
+ .debug_line    0x00000000      0x20c output/./src/voltage.o
+ .debug_str     0x00000000      0x2b0 output/./src/voltage.o
+ .comment       0x00000000       0x4a output/./src/voltage.o
+ .debug_frame   0x00000000       0x70 output/./src/voltage.o
+ .ARM.attributes
+                0x00000000       0x2d output/./src/voltage.o
+ .text          0x00000000        0x0 output/./src/time.o
+ .data          0x00000000        0x0 output/./src/time.o
+ .bss           0x00000000        0x0 output/./src/time.o
+ .text.TIM3_Int_Init
+                0x00000000       0x6c output/./src/time.o
+ .text          0x00000000       0x14 output/./boot/startup_stm32f10x_md.o
+ .data          0x00000000        0x0 output/./boot/startup_stm32f10x_md.o
+ .bss           0x00000000        0x0 output/./boot/startup_stm32f10x_md.o
+ .text          0x00000000      0x168 d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .data          0x00000000        0x0 d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .bss           0x00000000        0x0 d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .debug_frame   0x00000000       0x24 d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .ARM.attributes
+                0x00000000       0x1d d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .data          0x00000000        0x0 d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .bss           0x00000000        0x0 d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .data          0x00000000        0x0 d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .bss           0x00000000        0x0 d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .data          0x00000000        0x0 d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .bss           0x00000000        0x0 d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00005000         xrw
+EXTSRAM          0x60000000         0x00000000         xrw
+FLASH            0x08000000         0x00010000         xr
+FLASHB1          0x00000000         0x00000000         xr
+EXTMEMB0         0x00000000         0x00000000         xr
+EXTMEMB1         0x00000000         0x00000000         xr
+EXTMEMB2         0x00000000         0x00000000         xr
+EXTMEMB3         0x00000000         0x00000000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD output/./src/main.o
+LOAD output/./cmsis/core_cm3.o
+LOAD output/./src/sys.o
+LOAD output/./src/delay.o
+LOAD output/./src/IIC.o
+LOAD output/./src/pressure.o
+LOAD output/./src/spi.o
+LOAD output/./src/2401.o
+LOAD output/./src/usart.o
+LOAD output/./src/ad1255.o
+LOAD output/./src/blueteeth.o
+LOAD output/./src/lig.o
+LOAD output/./src/Tem.o
+LOAD output/./src/voltage.o
+LOAD output/./src/time.o
+LOAD output/./boot/startup_stm32f10x_md.o
+START GROUP
+LOAD d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a
+LOAD d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
+END GROUP
+                0x00000100                _Minimum_Stack_Size = 0x100
+                0x20005000                _estack = 0x20005000
+
+.isr_vector     0x08000000       0xec
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000       0xec output/./boot/startup_stm32f10x_md.o
+                0x08000000                g_pfnVectors
+                0x080000ec                . = ALIGN (0x4)
+
+.text           0x080000ec     0x141c
+                0x080000ec                . = ALIGN (0x4)
+ *(.text)
+ .text          0x080000ec      0x21c d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+                0x080000ec                __aeabi_frsub
+                0x080000f4                __subsf3
+                0x080000f4                __aeabi_fsub
+                0x080000f8                __aeabi_fadd
+                0x080000f8                __addsf3
+                0x08000258                __aeabi_ui2f
+                0x08000258                __floatunsisf
+                0x08000260                __aeabi_i2f
+                0x08000260                __floatsisf
+                0x0800027c                __aeabi_ul2f
+                0x0800027c                __floatundisf
+                0x0800028c                __aeabi_l2f
+                0x0800028c                __floatdisf
+ .text          0x08000308      0x2a0 d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a(_arm_muldivsf3.o)
+                0x08000308                __mulsf3
+                0x08000308                __aeabi_fmul
+                0x08000470                __aeabi_fdiv
+                0x08000470                __divsf3
+ .text          0x080005a8       0x40 d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+                0x080005a8                __fixunssfsi
+                0x080005a8                __aeabi_f2uiz
+ *(.text.*)
+ .text.main     0x080005e8       0x58 output/./src/main.o
+                0x080005e8                main
+ .text.MY_NVIC_SetVectorTable
+                0x08000640       0x24 output/./src/sys.o
+                0x08000640                MY_NVIC_SetVectorTable
+ .text.MY_NVIC_PriorityGroupConfig
+                0x08000664       0x50 output/./src/sys.o
+                0x08000664                MY_NVIC_PriorityGroupConfig
+ .text.MY_NVIC_Init
+                0x080006b4       0xbc output/./src/sys.o
+                0x080006b4                MY_NVIC_Init
+ .text.MYRCC_DeInit
+                0x08000770       0x7c output/./src/sys.o
+                0x08000770                MYRCC_DeInit
+ .text.Stm32_Clock_Init
+                0x080007ec       0xc0 output/./src/sys.o
+                0x080007ec                Stm32_Clock_Init
+ .text.delay_init
+                0x080008ac       0x44 output/./src/delay.o
+                0x080008ac                delay_init
+ .text.delay_us
+                0x080008f0       0x54 output/./src/delay.o
+                0x080008f0                delay_us
+ .text.delay_ms
+                0x08000944       0x54 output/./src/delay.o
+                0x08000944                delay_ms
+ .text.SPI2_Init
+                0x08000998       0xe8 output/./src/spi.o
+                0x08000998                SPI2_Init
+ .text.SPI2_SetSpeed
+                0x08000a80       0x54 output/./src/spi.o
+                0x08000a80                SPI2_SetSpeed
+ .text.SPI2_ReadWriteByte
+                0x08000ad4       0x88 output/./src/spi.o
+                0x08000ad4                SPI2_ReadWriteByte
+ .text.Nrf2401_Init
+                0x08000b5c       0xac output/./src/2401.o
+                0x08000b5c                Nrf2401_Init
+ .text.NRF24L01_Check
+                0x08000c08       0x78 output/./src/2401.o
+                0x08000c08                NRF24L01_Check
+ .text.NRF24L01_Read_Buf
+                0x08000c80       0x6c output/./src/2401.o
+                0x08000c80                NRF24L01_Read_Buf
+ .text.NRF24L01_Write_Buf
+                0x08000cec       0x6c output/./src/2401.o
+                0x08000cec                NRF24L01_Write_Buf
+ .text.USART1_IRQHandler
+                0x08000d58       0xa8 output/./src/usart.o
+                0x08000d58                USART1_IRQHandler
+ .text.uart_init
+                0x08000e00      0x124 output/./src/usart.o
+                0x08000e00                uart_init
+ .text.Lig_Status
+                0x08000f24       0x64 output/./src/lig.o
+                0x08000f24                Lig_Status
+ .text.Lig_Write
+                0x08000f88       0x88 output/./src/lig.o
+                0x08000f88                Lig_Write
+ .text.Lig_Iic_Init
+                0x08001010       0x5c output/./src/lig.o
+                0x08001010                Lig_Iic_Init
+ .text.Lig_Iic_Start
+                0x0800106c       0x34 output/./src/lig.o
+                0x0800106c                Lig_Iic_Start
+ .text.Lig_Iic_Stop
+                0x080010a0       0x40 output/./src/lig.o
+                0x080010a0                Lig_Iic_Stop
+ .text.Lig_Iic_Wait_Ack
+                0x080010e0       0x64 output/./src/lig.o
+                0x080010e0                Lig_Iic_Wait_Ack
+ .text.Lig_Iic_Ack
+                0x08001144       0x34 output/./src/lig.o
+                0x08001144                Lig_Iic_Ack
+ .text.Lig_Iic_Nack
+                0x08001178       0x34 output/./src/lig.o
+                0x08001178                Lig_Iic_Nack
+ .text.Lig_Iic_Send_Byte
+                0x080011ac       0x78 output/./src/lig.o
+                0x080011ac                Lig_Iic_Send_Byte
+ .text.Lig_Iic_Read_Byte
+                0x08001224       0x8c output/./src/lig.o
+                0x08001224                Lig_Iic_Read_Byte
+ .text.Tem_Write
+                0x080012b0       0x56 output/./src/Tem.o
+                0x080012b0                Tem_Write
+ *fill*         0x08001306        0x2 
+ .text.Tem_Iic_Init
+                0x08001308       0x3c output/./src/Tem.o
+                0x08001308                Tem_Iic_Init
+ .text.Tem_Iic_Start
+                0x08001344       0x34 output/./src/Tem.o
+                0x08001344                Tem_Iic_Start
+ .text.Tem_Iic_Stop
+                0x08001378       0x40 output/./src/Tem.o
+                0x08001378                Tem_Iic_Stop
+ .text.Tem_Iic_Wait_Ack
+                0x080013b8       0x64 output/./src/Tem.o
+                0x080013b8                Tem_Iic_Wait_Ack
+ .text.Tem_Iic_Send_Byte
+                0x0800141c       0x78 output/./src/Tem.o
+                0x0800141c                Tem_Iic_Send_Byte
+ .text.TIM3_IRQHandler
+                0x08001494       0x28 output/./src/time.o
+                0x08001494                TIM3_IRQHandler
+ .text.Reset_Handler
+                0x080014bc       0x40 output/./boot/startup_stm32f10x_md.o
+                0x080014bc                Reset_Handler
+ .text.Default_Handler
+                0x080014fc        0x2 output/./boot/startup_stm32f10x_md.o
+                0x080014fc                EXTI2_IRQHandler
+                0x080014fc                DebugMon_Handler
+                0x080014fc                TIM1_CC_IRQHandler
+                0x080014fc                HardFault_Handler
+                0x080014fc                SysTick_Handler
+                0x080014fc                PVD_IRQHandler
+                0x080014fc                PendSV_Handler
+                0x080014fc                NMI_Handler
+                0x080014fc                EXTI3_IRQHandler
+                0x080014fc                EXTI0_IRQHandler
+                0x080014fc                I2C2_EV_IRQHandler
+                0x080014fc                UsageFault_Handler
+                0x080014fc                ADC1_2_IRQHandler
+                0x080014fc                SPI1_IRQHandler
+                0x080014fc                TAMPER_IRQHandler
+                0x080014fc                DMA1_Channel4_IRQHandler
+                0x080014fc                USART3_IRQHandler
+                0x080014fc                RTC_IRQHandler
+                0x080014fc                DMA1_Channel7_IRQHandler
+                0x080014fc                CAN1_RX1_IRQHandler
+                0x080014fc                TIM4_IRQHandler
+                0x080014fc                I2C1_EV_IRQHandler
+                0x080014fc                DMA1_Channel6_IRQHandler
+                0x080014fc                RCC_IRQHandler
+                0x080014fc                TIM1_TRG_COM_IRQHandler
+                0x080014fc                DMA1_Channel1_IRQHandler
+                0x080014fc                Default_Handler
+                0x080014fc                EXTI15_10_IRQHandler
+                0x080014fc                EXTI9_5_IRQHandler
+                0x080014fc                SPI2_IRQHandler
+                0x080014fc                MemManage_Handler
+                0x080014fc                SVC_Handler
+                0x080014fc                DMA1_Channel5_IRQHandler
+                0x080014fc                EXTI4_IRQHandler
+                0x080014fc                USB_LP_CAN1_RX0_IRQHandler
+                0x080014fc                USB_HP_CAN1_TX_IRQHandler
+                0x080014fc                DMA1_Channel3_IRQHandler
+                0x080014fc                TIM1_UP_IRQHandler
+                0x080014fc                WWDG_IRQHandler
+                0x080014fc                TIM2_IRQHandler
+                0x080014fc                TIM1_BRK_IRQHandler
+                0x080014fc                EXTI1_IRQHandler
+                0x080014fc                RTCAlarm_IRQHandler
+                0x080014fc                USART2_IRQHandler
+                0x080014fc                I2C2_ER_IRQHandler
+                0x080014fc                DMA1_Channel2_IRQHandler
+                0x080014fc                CAN1_SCE_IRQHandler
+                0x080014fc                FLASH_IRQHandler
+                0x080014fc                BusFault_Handler
+                0x080014fc                I2C1_ER_IRQHandler
+                0x080014fc                USBWakeUp_IRQHandler
+ *(.rodata)
+ *fill*         0x080014fe        0x2 
+ .rodata        0x08001500        0x5 output/./src/2401.o
+ *(.rodata*)
+ *(.glue_7)
+ .glue_7        0x08001505        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08001505        0x0 linker stubs
+                0x08001508                . = ALIGN (0x4)
+ *fill*         0x08001505        0x3 
+                0x08001508                _etext = .
+                0x08001508                _sidata = _etext
+
+.vfp11_veneer   0x08001508        0x0
+ .vfp11_veneer  0x08001508        0x0 linker stubs
+
+.v4_bx          0x08001508        0x0
+ .v4_bx         0x08001508        0x0 linker stubs
+
+.iplt           0x08001508        0x0
+ .iplt          0x08001508        0x0 output/./src/main.o
+
+.rel.dyn        0x08001508        0x0
+ .rel.iplt      0x08001508        0x0 output/./src/main.o
+
+.data           0x20000000        0x0 load address 0x08001508
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data.*)
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _edata = .
+
+.igot.plt       0x20000000        0x0
+ .igot.plt      0x20000000        0x0 output/./src/main.o
+                0x20000000                . = ALIGN (0x4)
+
+.bss            0x20000000       0xd0
+                0x20000000                _sbss = .
+                0x20000000                __bss_start__ = _sbss
+ *(.bss)
+ *(.bss*)
+ .bss.fac_us    0x20000000        0x1 output/./src/delay.o
+ *fill*         0x20000001        0x1 
+ .bss.fac_ms    0x20000002        0x2 output/./src/delay.o
+ .bss.USART_RX_BUF
+                0x20000004       0xc8 output/./src/usart.o
+                0x20000004                USART_RX_BUF
+ .bss.USART_RX_STA
+                0x200000cc        0x2 output/./src/usart.o
+                0x200000cc                USART_RX_STA
+ *(COMMON)
+                0x200000d0                . = ALIGN (0x4)
+ *fill*         0x200000ce        0x2 
+                0x200000d0                _ebss = .
+                0x200000d0                __bss_end__ = _ebss
+                [!provide]                PROVIDE (end = _ebss)
+                [!provide]                PROVIDE (_end = _ebss)
+
+._usrstack      0x200000d0      0x100
+                0x200000d0                . = ALIGN (0x4)
+                0x200000d0                _susrstack = .
+                0x200001d0                . = (. + _Minimum_Stack_Size)
+ *fill*         0x200000d0      0x100 
+                0x200001d0                . = ALIGN (0x4)
+                0x200001d0                _eusrstack = .
+
+.b1text
+ *(.b1text)
+ *(.b1rodata)
+ *(.b1rodata*)
+
+.eb0text
+ *(.eb0text)
+ *(.eb0rodata)
+ *(.eb0rodata*)
+
+.eb1text
+ *(.eb1text)
+ *(.eb1rodata)
+ *(.eb1rodata*)
+
+.eb2text
+ *(.eb2text)
+ *(.eb2rodata)
+ *(.eb2rodata*)
+
+.eb3text
+ *(.eb3text)
+ *(.eb3rodata)
+ *(.eb3rodata*)
+
+DISCARD
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x49
+ *(.comment)
+ .comment       0x00000000       0x49 output/./src/main.o
+                                 0x4a (size before relaxing)
+ .comment       0x00000049       0x4a output/./src/sys.o
+ .comment       0x00000049       0x4a output/./src/delay.o
+ .comment       0x00000049       0x4a output/./src/spi.o
+ .comment       0x00000049       0x4a output/./src/2401.o
+ .comment       0x00000049       0x4a output/./src/usart.o
+ .comment       0x00000049       0x4a output/./src/lig.o
+ .comment       0x00000049       0x4a output/./src/Tem.o
+ .comment       0x00000049       0x4a output/./src/time.o
+
+.ARM.attributes
+                0x00000000       0x2b
+ .ARM.attributes
+                0x00000000       0x2d output/./src/main.o
+ .ARM.attributes
+                0x0000002d       0x2d output/./src/sys.o
+ .ARM.attributes
+                0x0000005a       0x2d output/./src/delay.o
+ .ARM.attributes
+                0x00000087       0x2d output/./src/spi.o
+ .ARM.attributes
+                0x000000b4       0x2d output/./src/2401.o
+ .ARM.attributes
+                0x000000e1       0x2d output/./src/usart.o
+ .ARM.attributes
+                0x0000010e       0x2d output/./src/lig.o
+ .ARM.attributes
+                0x0000013b       0x2d output/./src/Tem.o
+ .ARM.attributes
+                0x00000168       0x2d output/./src/time.o
+ .ARM.attributes
+                0x00000195       0x21 output/./boot/startup_stm32f10x_md.o
+ .ARM.attributes
+                0x000001b6       0x1d d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x000001d3       0x1d d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x000001f0       0x1d d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x2e0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 output/./src/main.o
+ .debug_aranges
+                0x00000020       0x80 output/./src/sys.o
+ .debug_aranges
+                0x000000a0       0x30 output/./src/delay.o
+ .debug_aranges
+                0x000000d0       0x48 output/./src/spi.o
+ .debug_aranges
+                0x00000118       0x68 output/./src/2401.o
+ .debug_aranges
+                0x00000180       0x30 output/./src/usart.o
+ .debug_aranges
+                0x000001b0       0x70 output/./src/lig.o
+ .debug_aranges
+                0x00000220       0x70 output/./src/Tem.o
+ .debug_aranges
+                0x00000290       0x28 output/./src/time.o
+ .debug_aranges
+                0x000002b8       0x28 output/./boot/startup_stm32f10x_md.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x25c5
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000       0xfb output/./src/main.o
+ .debug_info    0x000000fb      0x7e1 output/./src/sys.o
+ .debug_info    0x000008dc      0x1e2 output/./src/delay.o
+ .debug_info    0x00000abe      0x3f6 output/./src/spi.o
+ .debug_info    0x00000eb4      0x587 output/./src/2401.o
+ .debug_info    0x0000143b      0x523 output/./src/usart.o
+ .debug_info    0x0000195e      0x38a output/./src/lig.o
+ .debug_info    0x00001ce8      0x388 output/./src/Tem.o
+ .debug_info    0x00002070      0x533 output/./src/time.o
+ .debug_info    0x000025a3       0x22 output/./boot/startup_stm32f10x_md.o
+
+.debug_abbrev   0x00000000      0xaf0
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0xb8 output/./src/main.o
+ .debug_abbrev  0x000000b8      0x1cc output/./src/sys.o
+ .debug_abbrev  0x00000284       0xee output/./src/delay.o
+ .debug_abbrev  0x00000372      0x116 output/./src/spi.o
+ .debug_abbrev  0x00000488      0x140 output/./src/2401.o
+ .debug_abbrev  0x000005c8      0x16f output/./src/usart.o
+ .debug_abbrev  0x00000737      0x157 output/./src/lig.o
+ .debug_abbrev  0x0000088e      0x155 output/./src/Tem.o
+ .debug_abbrev  0x000009e3       0xfb output/./src/time.o
+ .debug_abbrev  0x00000ade       0x12 output/./boot/startup_stm32f10x_md.o
+
+.debug_line     0x00000000     0x18f0
+ *(.debug_line)
+ .debug_line    0x00000000      0x145 output/./src/main.o
+ .debug_line    0x00000145      0x37f output/./src/sys.o
+ .debug_line    0x000004c4      0x1e3 output/./src/delay.o
+ .debug_line    0x000006a7      0x218 output/./src/spi.o
+ .debug_line    0x000008bf      0x317 output/./src/2401.o
+ .debug_line    0x00000bd6      0x1e4 output/./src/usart.o
+ .debug_line    0x00000dba      0x53a output/./src/lig.o
+ .debug_line    0x000012f4      0x445 output/./src/Tem.o
+ .debug_line    0x00001739      0x142 output/./src/time.o
+ .debug_line    0x0000187b       0x75 output/./boot/startup_stm32f10x_md.o
+
+.debug_frame    0x00000000      0x6f0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x2c output/./src/main.o
+ .debug_frame   0x0000002c      0x134 output/./src/sys.o
+ .debug_frame   0x00000160       0x50 output/./src/delay.o
+ .debug_frame   0x000001b0       0xa0 output/./src/spi.o
+ .debug_frame   0x00000250      0x120 output/./src/2401.o
+ .debug_frame   0x00000370       0x60 output/./src/usart.o
+ .debug_frame   0x000003d0      0x128 output/./src/lig.o
+ .debug_frame   0x000004f8      0x114 output/./src/Tem.o
+ .debug_frame   0x0000060c       0x3c output/./src/time.o
+ .debug_frame   0x00000648       0x4c d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .debug_frame   0x00000694       0x38 d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .debug_frame   0x000006cc       0x24 d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+
+.debug_str      0x00000000      0xc60
+ *(.debug_str)
+ .debug_str     0x00000000      0x159 output/./src/main.o
+                                0x1a1 (size before relaxing)
+ .debug_str     0x00000159      0x2b7 output/./src/sys.o
+                                0x454 (size before relaxing)
+ .debug_str     0x00000410       0x5f output/./src/delay.o
+                                0x20b (size before relaxing)
+ .debug_str     0x0000046f       0xd9 output/./src/spi.o
+                                0x2fc (size before relaxing)
+ .debug_str     0x00000548       0xf3 output/./src/2401.o
+                                0x38a (size before relaxing)
+ .debug_str     0x0000063b      0x348 output/./src/usart.o
+                                0x5a5 (size before relaxing)
+ .debug_str     0x00000983       0xe0 output/./src/lig.o
+                                0x2e8 (size before relaxing)
+ .debug_str     0x00000a63       0xcc output/./src/Tem.o
+                                0x2dc (size before relaxing)
+ .debug_str     0x00000b2f       0xe6 output/./src/time.o
+                                0x5e9 (size before relaxing)
+ .debug_str     0x00000c15       0x4b output/./boot/startup_stm32f10x_md.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+OUTPUT(output/template.elf elf32-littlearm)
+LOAD linker stubs
+LOAD d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
+LOAD d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libm.a
+LOAD d:/tools/gun/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a
+
+.debug_ranges   0x00000000      0x248
+ .debug_ranges  0x00000000       0x10 output/./src/main.o
+ .debug_ranges  0x00000010       0x70 output/./src/sys.o
+ .debug_ranges  0x00000080       0x20 output/./src/delay.o
+ .debug_ranges  0x000000a0       0x38 output/./src/spi.o
+ .debug_ranges  0x000000d8       0x58 output/./src/2401.o
+ .debug_ranges  0x00000130       0x20 output/./src/usart.o
+ .debug_ranges  0x00000150       0x60 output/./src/lig.o
+ .debug_ranges  0x000001b0       0x60 output/./src/Tem.o
+ .debug_ranges  0x00000210       0x18 output/./src/time.o
+ .debug_ranges  0x00000228       0x20 output/./boot/startup_stm32f10x_md.o
